@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 34
     namespace 'com.javih.add_2_calendar_new'
 
     sourceSets {
@@ -44,4 +44,3 @@ android {
         jvmTarget = '1.8'
     }
 }
-
